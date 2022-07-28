@@ -11,10 +11,10 @@ Presentación de prueba técnica FrontEnd con React, javascript, css trayendo in
 7. Utilización de CSS. 
 
 
-Consideraciones para abrir la app.
-Descargar o clonar el repositorio
-Utilizar en la consola para instalar las dependencias  el comando "npm install" 
-Para ejecutar la aplicación usar el comando "npm start"
+Consideraciones para abrir la app:
+-Descargar o clonar el repositorio.
+-Utilizar en la consola para instalar las dependencias  el comando "npm install". 
+-Para ejecutar la aplicación usar el comando "npm start".
 
 Nota adicional: 
 -Los filtros realizados son para clasificar al personaje por estado, genero y especie. 
