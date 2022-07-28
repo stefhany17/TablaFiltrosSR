@@ -31,7 +31,7 @@ Al aplicar un filtro de especie: Alien
 
 ![image](https://user-images.githubusercontent.com/110130518/181400187-2457cb45-1e7d-417a-9ac1-44e506e0bfea.png)
 
-Deploy del repositorio: 
+Deploy del repositorio : 
 https://tabla-filtros-sr.vercel.app/
 
 Gracias. 
