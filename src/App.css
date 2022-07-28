@@ -1,0 +1,69 @@
+body {
+
+	font-family: Arial;
+	background: linear-gradient(90deg, rgba(176, 103, 191, 1) 0%, rgba(248, 232, 232, 1) 59%);
+}
+
+.Filtros {
+
+	display: flex;
+	justify-content: space-around;
+
+}
+
+.Tablita {
+	margin: 50px auto;
+	width: 600px;
+}
+
+button {
+	
+
+
+	background-image: linear-gradient(to right, #02AAB0 0%, #00CDAC 51%, #02AAB0 100%);
+	margin: 10px;
+	width: 100%;
+	padding: 5px 15px;
+	text-align: center;
+	transition: 0.5s;
+	background-size: 200% auto;
+	color: white;
+	border-radius: 10px;
+	border:1px;
+	display: block;
+}
+
+button:hover {
+	background-position: right center;
+	/* change the direction of the change here */
+	color: #fff;
+	text-decoration: none;
+}
+
+
+table {
+	background-color: white;
+	text-align: left;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+th,
+td {
+	padding: 20px;
+}
+
+thead {
+	background-color: #422463;
+	border-bottom: solid 5px #b067bf;
+	color: white;
+}
+
+tr:nth-child(even) {
+	background-color: rgb(248, 232, 232);
+}
+
+tr:hover td {
+	background-color: #503696;
+	color: white;
+}
