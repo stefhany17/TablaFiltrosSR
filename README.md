@@ -1,5 +1,5 @@
 # TablaFiltrosSR
-Presentación de prueba técnica FrontEnd con React, javascript, css trayendo información de una API Rest
+FrontEnd con React, javascript, css trayendo información de una API Rest
 
 1. Creación de una app a partir de react y se realizaron las configuraciones pertinentes. 
 2. Escogencia de la API Rest: The Rick and Morty (Sus personajes) 
